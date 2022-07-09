@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/proyecto05-memes-creator/static/css/main.65f1c556.css",
+    "main.js": "/proyecto05-memes-creator/static/js/main.2a9dcfcb.js",
+    "index.html": "/proyecto05-memes-creator/index.html",
+    "main.65f1c556.css.map": "/proyecto05-memes-creator/static/css/main.65f1c556.css.map",
+    "main.2a9dcfcb.js.map": "/proyecto05-memes-creator/static/js/main.2a9dcfcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65f1c556.css",
+    "static/js/main.2a9dcfcb.js"
+  ]
+}
