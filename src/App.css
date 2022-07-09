@@ -1,0 +1,58 @@
+.App{
+  text-align: center;
+  background-color: #343944;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.meme{
+  background-color: #343944;
+}
+
+.meme img{
+  max-width: 98%;
+  border: 3px solid black;
+}
+
+.meme span {
+  position: absolute;
+  width: 100%;
+  left: 0px;
+  margin-top: 650px;
+  font-size: 65px;
+  text-transform: uppercase;
+  -webkit-text-stroke: 2px black;
+  color: white;
+  font-weight: bold;
+}
+
+
+.meme span:nth-child(1) {
+  margin-top: 50px;
+}
+
+input, select, button{
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+  font-size: 22px;
+}
+
+button {
+  cursor: pointer;
+  letter-spacing: 2px;
+}
+
+button:hover {
+  background-color: #343944;
+  color: white;
+  border: 2px solid white; 
+}
+
+h1{
+  font-size: 55px;
+}
